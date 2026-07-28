@@ -10,7 +10,7 @@
   <a href="https://portfolio-v3-alpha-one.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/manas-chandra">
+  <a href="https://www.linkedin.com/in/manas-chandra-3b3a9923a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:manaschandra07@gmail.com">
