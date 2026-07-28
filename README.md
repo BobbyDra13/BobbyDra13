@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://portfolio-v3-alpha-one.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4DB&center=true&vCenter=true&width=560&lines=React+%7C+Next.js+%7C+Node.js+%7C+TypeScript+%7C+Azure;Building+SEO+friendly+apps+with+Next.js;Generative+AI+pipelines+in+production;Shipped+a+platform+solo%2C+zero+to+production;40%25+faster+APIs%2C+50%2B+daily+users" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4DB&center=true&vCenter=true&width=750&height=45&lines=React+%7C+Next.js+%7C+Node.js+%7C+TypeScript+%7C+Azure;Building+SEO+friendly+apps+with+Next.js;Generative+AI+pipelines+in+production;Shipped+a+platform+solo%2C+zero+to+production;40%25+faster+APIs%2C+50%2B+daily+users" alt="typing" />
   </a>
 </p>
 
@@ -88,12 +88,7 @@ I build scalable web applications and AI powered platforms end to end, with Reac
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BobbyDra13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BobbyDra13&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyDra13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -101,11 +96,11 @@ I build scalable web applications and AI powered platforms end to end, with Reac
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BobbyDra13&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/BobbyDra13/BobbyDra13/output/snake.svg" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BobbyDra13/BobbyDra13/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BobbyDra13/BobbyDra13/output/snake.svg" />
+    <img width="95%" src="https://raw.githubusercontent.com/BobbyDra13/BobbyDra13/output/snake.svg" alt="Contribution snake" />
+  </picture>
 </p>
 
 ---
